@@ -1,5 +1,5 @@
 # lab01- sumador 
-## nombres
+## nombres paula mariana ruiz constante 
 
 ## informe de laoratorio 
 
